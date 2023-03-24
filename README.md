@@ -1,2 +1,1 @@
-Laravel.
-Insert and Select Records with MVC.
+Eloquent Method in Laravel
